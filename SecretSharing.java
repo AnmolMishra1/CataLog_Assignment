@@ -72,3 +72,9 @@ public class SecretSharing {
         return result;
     }
 }
+
+// output 
+// (1,4),(2,7),(3,12),(6,39)
+// Secret for Test Case 1: 42
+//Secret for Test Case 2: 18446744073709551615
+
